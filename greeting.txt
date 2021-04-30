@@ -1,1 +1,2 @@
-My favourite greeting is BCD
+My favourite greeting is BCD.
+Adding this line from merge-conflict-branch1 to rise conflicts during merging to master
